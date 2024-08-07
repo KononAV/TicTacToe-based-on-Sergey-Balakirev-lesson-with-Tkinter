@@ -14,7 +14,6 @@ while game:
 
     step_game += 1
 
-
 game.show()
 
 if game.is_human_win:
